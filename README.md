@@ -3,6 +3,7 @@
   멀티 GPU를 효율적으로 쓰기 위해 Horovod를 설치하는 방법을 정리함.
 
   1. Open MPI 설치
+ 
     https://www.open-mpi.org/software/ompi/v4.0/
 
     위 사이트서 압축 파일을 다운로드
@@ -21,7 +22,7 @@
     --------------------------------------------------------------------------
     위와 같이 나오면 설치 성공
 
-  2. NCCL 설이
+  2. NCCL 설치
 
     https://developer.nvidia.com/nccl 다운로드
 
